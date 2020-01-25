@@ -1,0 +1,9 @@
+[submodule "NodeJSServer"]
+	path = NodeJSServer
+	url = https://github.com/RobertBetschinger/NodeJSServer.git
+[submodule "Dozentenapp"]
+	path = Dozentenapp
+	url = https://github.com/RobertBetschinger/Dozentenapp.git
+[submodule "Studapp"]
+	path = Studapp
+	url = https://github.com/laefrost/Studapp.git
