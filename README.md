@@ -4,6 +4,7 @@
 
 Within the project seminar two web apps were developed to provide students with a simple and modern way to test and check their knowledge. The lecturer app(Dozentenapp) is the part of the project seminar that is intended for professors and chairs. This web service allows the creation of questions and questionnaires divided into categories and subcategories. The student app offers the students the possibility to learn the questions and to test them realistically in an exam. The database is identical and is synchronized by a RestApi and a central MongoDB server. The idea of this project is based on two existing Web Apps, but these have been completely redesigned, since they only represent front-end applications without interfaces or a central dataset, which is absolutely necessary for the logical use of this project. The Forensic Workshop is hosted by the "TRIO Forschungsprojekt".
 
+
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
