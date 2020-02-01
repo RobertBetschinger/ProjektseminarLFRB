@@ -76,8 +76,8 @@ Express.js
 ## Contributed/Authors
 
 Created by:
-laefrost
-robertbetschinger
+ - laefrost
+ - robertbetschinger
 
 
 
